@@ -6,3 +6,5 @@ This is a simple Java project to demonstrate version management with Git.
 
 ## Version 1.0.2
 - MVC Structure and Model Class
+## Version 1.0.3
+- Including generic data for our project
