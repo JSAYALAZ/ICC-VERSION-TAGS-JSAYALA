@@ -10,3 +10,5 @@ This is a simple Java project to demonstrate version management with Git.
 - Including generic data for our project
 ## Version 1.0.4
 - Controller and view form product model
+## Version 2.0.0
+- Integration of functionality MVC in project finished
